@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<persons>
+    <person id="1">
+        <Name>Zendaya Coleman</Name>
+        <City>Oakland</City>
+        <Birthday>01/09/1996</Birthday>
+        <Occupation>Actress,Singer</Occupation>
+        <Works>Shake It Up (2010&#x2013;2013),K.C. Undercover (2015&#x2013;2018),The Greatest Showman (2017),Euphoria (2019&#x2013;present),Malcolm and Marie (2021)</Works>
+        <Photo>\lab\img_id1\photo1.png,\lab\img_id1\photo2.jpg,\lab\img_id1\photo3.jpg,\lab\img_id1\post1.JPG,\lab\img_id1\post2.JPG,\lab\img_id1\post3.png,\lab\img_id1\post4.png</Photo>
+    </person>
+    
+<person id="3"><Name>Zhong Lingyuxiu</Name><City>Hang Zhou</City><Birthday>2.8</Birthday><Occupation>student</Occupation><Photo>\lab\img_0\1.png,\lab\img_0\2.png,\lab\img_0\3.png</Photo><Email>1078807863@qq.com</Email><Password>123456</Password></person></persons>
